@@ -42,3 +42,8 @@ Using SQL and tkinter to realize DBMS with GUI
   - PNo(PK)
 - AGENT紀錄球員經紀人的資訊
   - PNo(PK)、ANo(PK)
+
+**系統架構與環境及使用說明**
+- 程式:Python3.7
+- 編譯器:Anaconda3-Spyder
+
