@@ -18,4 +18,4 @@ Using SQL and tkinter to realize DBMS with GUI
 
 依據上述定義的需求所構成的ER-diagram如下所示:
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/ER-diagram.png)
