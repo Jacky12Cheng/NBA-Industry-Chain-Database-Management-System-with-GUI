@@ -27,18 +27,18 @@ Using SQL and tkinter to realize DBMS with GUI
 ![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/Relation%20Schema.png)
 
 - GAMEs紀錄每場比賽資訊及有進場的特定球迷
-- GNo(PK)
+ - GNo(PK)
 - TEAMs紀錄每個球隊資訊
-- TName(PK)
+ - TName(PK)
 - SPONSOR紀錄每個經紀人所贊助的球賽及金額
-- GNo(PK)、PNo(PK)、ANo(PK)
+ - GNo(PK)、PNo(PK)、ANo(PK)
 - PLAY紀錄該場球賽是由哪個球員出賽與哪支球隊有參與
-- PNo(PK)、TName(PK)
+ - PNo(PK)、TName(PK)
 - FANs紀錄球迷資訊
-- FNo(PK)
+ - FNo(PK)
 - BELONG_TO紀錄球員是否被特定球隊擁有過
-- TName(PK) 、PNo(PK)
+ - TName(PK) 、PNo(PK)
 - PLAYERs紀錄每個球員的資訊
-- PNo(PK)
+ - PNo(PK)
 - AGENT紀錄球員經紀人的資訊
-- PNo(PK)、ANo(PK)
+ - PNo(PK)、ANo(PK)
