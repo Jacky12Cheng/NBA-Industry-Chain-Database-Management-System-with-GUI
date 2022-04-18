@@ -24,7 +24,7 @@ Using SQL and tkinter to realize DBMS with GUI
 
 將上圖的ER-diagram映射成關聯並經過第三正規化後形成的關聯綱要如下所示，總共形成八個關聯(表格)。
   
-![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/Relation%20Schema.png)
+![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/ER_Diagram_and_Relation_Schema/Relation%20Schema.png)
 
 - GAMEs紀錄每場比賽資訊及有進場的特定球迷
   - GNo(PK)
