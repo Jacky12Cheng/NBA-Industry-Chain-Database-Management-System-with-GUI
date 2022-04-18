@@ -4,7 +4,7 @@ Using SQL and tkinter to realize DBMS with GUI
 
 **背景**
 
-此資料庫管理系統是以籃球運動的產業鏈為發想，除了球賽本身與其參與的成員外，亦將場外相關的球員經濟人與球迷等考慮進來，希望以這樣的概念來建置一個小型簡易的資料庫系統，來記錄球賽與球員和球隊之間的關係以及球迷在賽事中的進場紀錄等。
+        此資料庫管理系統是以籃球運動的產業鏈為發想，除了球賽本身與其參與的成員外，亦將場外相關的球員經濟人與球迷等考慮進來，希望以這樣的概念來建置一個小型簡易的資料庫系統，來記錄球賽與球員和球隊之間的關係以及球迷在賽事中的進場紀錄等。
 
 
 **此資料庫需求定義如下:**
@@ -16,7 +16,7 @@ Using SQL and tkinter to realize DBMS with GUI
 
 **ER-diagram**
 
-依據上述定義的需求所構成的ER-diagram如下所示:
+        依據上述定義的需求所構成的ER-diagram如下所示:
 
 ![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/ER-diagram.png)
 
@@ -24,4 +24,4 @@ Using SQL and tkinter to realize DBMS with GUI
 
 	將上圖的ER-diagram映射成關聯並經過第三正規化後形成的關聯綱要如下所示，總共形成八個關聯(表格)。
   
-![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/ER-diagram.png)
+![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/Relation%20Schema.png)
