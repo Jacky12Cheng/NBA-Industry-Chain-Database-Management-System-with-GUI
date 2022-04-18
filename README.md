@@ -19,3 +19,9 @@ Using SQL and tkinter to realize DBMS with GUI
 依據上述定義的需求所構成的ER-diagram如下所示:
 
 ![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/ER-diagram.png)
+
+**關聯綱要(Relation Schema)**
+
+	將上圖的ER-diagram映射成關聯並經過第三正規化後形成的關聯綱要如下所示，總共形成八個關聯(表格)。
+  
+![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/ER-diagram.png)
