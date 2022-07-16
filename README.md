@@ -47,7 +47,7 @@ Using SQL and tkinter to realize DBMS with GUI
 - 程式:Python3.7
 - 編譯器:Anaconda3-Spyder
 
-![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/GUI_picture/GUI_1.png)
+![This is an image](https://github.com/Jacky12Cheng/NBA-Industry-Chain-Database-Management-System-with-GUI/blob/main/GUI_picture/GUI_a.png)
 - PART 1：為輸入SQL指令的介面，按下Command鍵會執行所輸入的SOL指令並顯示於第四部份的結果處
 - PART 2：此系統中所含表格的下拉式選單，按下 ‘PRESS here!!!’ 後，會出現所選擇的表格(Table)，並可對此表格進行新增(INSERT)、刪除(DELETE)、修改(UPDATE)的動作，如下圖所示
 
